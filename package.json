@@ -1,5 +1,5 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"Wei Yi": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
